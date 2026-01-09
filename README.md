@@ -5,6 +5,7 @@
 Apasionado por la creación de soluciones tecnológicas innovadoras y el desarrollo de software de calidad. Me especializo en el desarrollo de aplicaciones web y móviles con arquitecturas modernas y mejores prácticas.
 
 ### Mi Portafolio
+[![Portfolio](https://img.shields.io/badge/🌐_Portafolio-Visita_mi_sitio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alejandro13.duckdns.org:9443)
 **Visita mi sitio web personal:** [https://alejandro13.duckdns.org:9443](https://alejandro13.duckdns.org:9443)
 
 
@@ -14,13 +15,10 @@ Apasionado por la creación de soluciones tecnológicas innovadoras y el desarro
 
 
 ### Conectemos
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portafolio-Visita_mi_sitio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alejandro13.duckdns.org:9443)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Conéctate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-mart%C3%ADnez-75a7433a4/)
 [![Email](https://img.shields.io/badge/📧_Email-Contáctame-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinezgarcianestoralejandro@gmail.com)
 
 **Enlaces directos:**
-- ** Portafolio:** [https://alejandro13.duckdns.org:9443](https://alejandro13.duckdns.org:9443) 
 - ** LinkedIn:** [linkedin.com/in/alejandro-martinez](https://www.linkedin.com/in/alejandro-mart%C3%ADnez-75a7433a4/) 
 - ** Email:** [martinezgarcianestoralejandro@gmail.com](mailto:martinezgarcianestoralejandro@gmail.com) 
 
