@@ -15,7 +15,7 @@ Apasionado por la creación de soluciones tecnológicas innovadoras y el desarro
 
 ###  Conectemos
 - **Portafolio:** [https://alejandro13.duckdns.org:9443](https://alejandro13.duckdns.org:9443)
-- **LinkedIn:** [linkedin.com/in/tuperfil](https://www.linkedin.com/in/alejandro-mart%C3%ADnez-75a7433a4/)
+- **LinkedIn:** [linkedin.com/Alejandro Martínez](https://www.linkedin.com/in/alejandro-mart%C3%ADnez-75a7433a4/)
 - **Email:** martinezgarcianestoralejandro@gmail.com
 
 ###  Filosofía de Desarrollo
