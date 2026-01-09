@@ -20,9 +20,9 @@ Apasionado por la creación de soluciones tecnológicas innovadoras y el desarro
 [![Email](https://img.shields.io/badge/📧_Email-Contáctame-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinezgarcianestoralejandro@gmail.com)
 
 **Enlaces directos:**
-- ** Portafolio:** [https://alejandro13.duckdns.org:9443](https://alejandro13.duckdns.org:9443) *(se abre en nueva pestaña)*
-- ** LinkedIn:** [linkedin.com/in/alejandro-martinez](https://www.linkedin.com/in/alejandro-mart%C3%ADnez-75a7433a4/) *(se abre en nueva pestaña)*
-- ** Email:** [martinezgarcianestoralejandro@gmail.com](mailto:martinezgarcianestoralejandro@gmail.com) *(abre cliente de correo)*
+- ** Portafolio:** [https://alejandro13.duckdns.org:9443](https://alejandro13.duckdns.org:9443) 
+- ** LinkedIn:** [linkedin.com/in/alejandro-martinez](https://www.linkedin.com/in/alejandro-mart%C3%ADnez-75a7433a4/) 
+- ** Email:** [martinezgarcianestoralejandro@gmail.com](mailto:martinezgarcianestoralejandro@gmail.com) 
 
 ###  Filosofía de Desarrollo
 "Creo en las soluciones escalables. Cada proyecto es una oportunidad para aprender y mejorar."
