@@ -13,10 +13,16 @@ Apasionado por la creación de soluciones tecnológicas innovadoras y el desarro
 - Certificaciones en Desarrollo Web y Cloud Computing
 
 
-###  Conectemos
-- **Portafolio:** [https://alejandro13.duckdns.org:9443](https://alejandro13.duckdns.org:9443)
-- **LinkedIn:** [linkedin.com/Alejandro Martínez](https://www.linkedin.com/in/alejandro-mart%C3%ADnez-75a7433a4/)
-- **Email:** martinezgarcianestoralejandro@gmail.com
+### Conectemos
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portafolio-Visita_mi_sitio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alejandro13.duckdns.org:9443)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Conéctate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-mart%C3%ADnez-75a7433a4/)
+[![Email](https://img.shields.io/badge/📧_Email-Contáctame-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinezgarcianestoralejandro@gmail.com)
+
+**Enlaces directos:**
+- ** Portafolio:** [https://alejandro13.duckdns.org:9443](https://alejandro13.duckdns.org:9443) *(se abre en nueva pestaña)*
+- ** LinkedIn:** [linkedin.com/in/alejandro-martinez](https://www.linkedin.com/in/alejandro-mart%C3%ADnez-75a7433a4/) *(se abre en nueva pestaña)*
+- ** Email:** [martinezgarcianestoralejandro@gmail.com](mailto:martinezgarcianestoralejandro@gmail.com) *(abre cliente de correo)*
 
 ###  Filosofía de Desarrollo
 "Creo en las soluciones escalables. Cada proyecto es una oportunidad para aprender y mejorar."
