@@ -4,8 +4,7 @@
 
 Apasionado por la creación de soluciones tecnológicas innovadoras y el desarrollo de software de calidad. Me especializo en el desarrollo de aplicaciones web y móviles con arquitecturas modernas y mejores prácticas.
 
-### ---> ** [![Portfolio](https://img.shields.io/badge/🌐_Portafolio-Visita_mi_sitio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alejandro13.duckdns.org:9443) ###<---
-
+[![Portfolio](https://img.shields.io/badge/🌐_Portafolio-Visita_mi_sitio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alejandro13.duckdns.org:9443)
 ### Mi Portafolio
 ** Visita mi sitio web personal:** [https://alejandro13.duckdns.org:9443](https://alejandro13.duckdns.org:9443)
 
