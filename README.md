@@ -6,7 +6,7 @@ Apasionado por la creación de soluciones tecnológicas innovadoras y el desarro
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portafolio-Visita_mi_sitio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alejandro13.duckdns.org:9443)
 ### Mi Portafolio
-** Visita mi sitio web personal:** [https://www.nullex.online]([http://www.nullex.online](https://www.nullex.online)
+** Visita mi sitio web personal:** https://www.nullex.online
 
 
 ###  Educación
